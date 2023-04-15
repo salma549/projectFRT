@@ -17,8 +17,6 @@ Static Web Apps
 Health bot
 
 
-
-
 FUNCTIONALITIES OF WEB APPLICATIONS:
 
 
@@ -37,11 +35,6 @@ FUNCTIONALITIES OF WEB APPLICATIONS:
 -HELPFULL LINKS: Terms and Services, Privacy Policy
 
 
-
-
-
-
-
 ADVANTAGES OF WEB APPLICATIONS:
 
 -Checking the latest news and Updates on the COVID-19 Pandemic such as number of Active Cases, Recovered Cases, Total deaths, Vaccinations.
@@ -51,10 +44,6 @@ ADVANTAGES OF WEB APPLICATIONS:
 -Provided information about how to protect yourself preventions and advices(Wash hands, Social Distancing, Wear mask etc)
 
 -Provided information about the vaccines
-
-
-
-
 
 
 
