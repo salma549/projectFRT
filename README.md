@@ -1,4 +1,5 @@
-Kovid
+![Covid](https://user-images.githubusercontent.com/117900157/232210249-0322652e-45a5-4025-b3bf-35a4b408aba6.JPG)
+
 
 
 This web application is based on covid has been developed for the accomplishment of Future Ready Talent 
@@ -89,3 +90,4 @@ Tech Stack
 -Bootstrap
 
 -Javascript
+
