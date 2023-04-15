@@ -19,6 +19,7 @@ Health bot
 
 FUNCTIONALITIES OF WEB APPLICATIONS:
 
+
 -Latest and Updated Cases,Deaths,Vaccinations,Preventions,Symptoms
 
 -Information about our Team
@@ -33,6 +34,8 @@ FUNCTIONALITIES OF WEB APPLICATIONS:
 
 -HELPFULL LINKS: Terms and Services, Privacy Policy
 
+
+
 ADVANTAGES OF WEB APPLICATIONS:
 
 -Checking the latest news and Updates on the COVID-19 Pandemic such as number of Active Cases, Recovered Cases, Total deaths, Vaccinations.
@@ -43,7 +46,10 @@ ADVANTAGES OF WEB APPLICATIONS:
 
 -Provided information about the vaccines
 
+
+
 SCREENSHOTS OF WEBSITE:
+
 HOME:
 
 
