@@ -8,7 +8,7 @@ Internship program launched by Microsoft,Future Skills Prime,Github,EY and Quess
 
 PROJECT LINK: https://salma549.github.io/projectFRT/
 
-PROJECT DEMO VIDEO LINK: 
+PROJECT DEMO VIDEO LINK: https://youtu.be/4zgKmc28NAQ
 
 
 Azure Technologies used for project:
