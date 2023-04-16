@@ -20,7 +20,6 @@ Health bot
 
 FUNCTIONALITIES OF WEB APPLICATION:
 
-
 -Latest and Updated Cases,Deaths,Vaccinations,Preventions,Symptoms
 
 -Information about our Team
