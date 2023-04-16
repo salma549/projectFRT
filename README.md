@@ -6,7 +6,7 @@ This web application is based on covid has been developed for the accomplishment
 Internship program launched by Microsoft,Future Skills Prime,Github,EY and Quess.
 
 
-PROJECT LINK: https://salma549.github.io/projectFRT/
+PROJECT LINK: https://calm-moss-09da03600.3.azurestaticapps.net
 
 PROJECT DEMO VIDEO LINK: https://youtu.be/4zgKmc28NAQ
 
