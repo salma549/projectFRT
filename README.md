@@ -8,7 +8,7 @@ Internship program launched by Microsoft,Future Skills Prime,Github,EY and Quess
 
 PROJECT LINK: https://calm-moss-09da03600.3.azurestaticapps.net
 
-PROJECT DEMO VIDEO LINK: https://youtu.be/4zgKmc28NAQ
+PROJECT DEMO VIDEO LINK: https://www.youtube.com/watch?v=4zgKmc28NAQ
 
 
 Azure Technologies used for project:
